@@ -1,0 +1,74 @@
+[
+    {
+        "name": "sachin pathania",
+        "phone": "1234567890",
+        "class": "MCA",
+        "email": "pathania@gmail.com"
+    },
+    {
+        "name": "seema pathania",
+        "phone": "1234567890",
+        "class": "12",
+        "email": "pathania@gmail.com"
+    },
+    {
+        "name": "sunil pathania",
+        "phone": "1234567890",
+        "class": "MCA",
+        "email": "pathania@gmail.com"
+    },
+    {
+        "name": "komal sharma",
+        "phone": "1234567890",
+        "class": "MCA",
+        "email": "pathania@gmail.com"
+    },
+    {
+        "name": "priya",
+        "phone": "1234567890",
+        "class": "bsc",
+        "email": "priya@gmail.com"
+    },
+    {
+        "name": "Tanika",
+        "phone": "1234567890",
+        "class": "MCA",
+        "email": "tanika@gmail.com"
+    },
+    {
+        "name": "vikas",
+        "phone": "1234567890",
+        "class": "BA LLB",
+        "email": "vikas@gmail.com"
+    },
+    {
+        "name": "Amit",
+        "phone": "1234567890",
+        "class": "B.tech",
+        "email": "amit@gmail.com"
+    },
+    {
+        "name": "mohit pathania",
+        "phone": "1234567890",
+        "class": "m.com",
+        "email": "mohit@gmail.com"
+    },
+    {
+        "name": "ranjit ",
+        "phone": "1234567890",
+        "class": "B.com",
+        "email": "ranjit@gmail.com"
+    },
+    {
+        "name": "anil",
+        "phone": "1234567890",
+        "class": "bca",
+        "email": "anil@gmail.com"
+    },
+    {
+        "name": "suraj thakur",
+        "phone": "1234567890",
+        "class": "MCA",
+        "email": "suraj@gmail.com"
+    }
+]

@@ -1,0 +1,22 @@
+service: aws-lamda-demo
+	
+disabledDeprecations:
+  - CODE_1 # To disable specific deprecation with code "CODE_1"
+  - '*' # To disable all deprecation messages
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+  memorysize: 512
+  timeout: 15
+  stage : production
+  region: us-east-1
+
+
+
+function:
+   api:
+     handler: lamda.handler
+     events: 
+       - http: ANY{proxy+}
+       - http: ANY /
